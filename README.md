@@ -1,7 +1,7 @@
 ### Hi there, i,m Dominic👋
 
 
-Hi, I'm Dominic Nyambane, a passionate self-taught Mobile, Web, Data scientist and Entrepreneur from Kenya.
+Hi, I'm Dominic Nyambane, a passionate self-taught Mobile dev, Web dev, Data scientist and Entrepreneur from Kenya.
 - 🔭 I’m currently working on a startup
 - 🌱 I’m currently learning flutter & ML
 - 👯 I’m looking to collaborate on great projects
