@@ -1,6 +1,6 @@
 ### Hi there, i,m Dominic👋
 
-
+<img src='images/Github_banner.png' alt="banner"></img>
 Hi, I'm Dominic Nyambane, a passionate self-taught Mobile dev, Web dev, Data scientist and Entrepreneur from Kenya.
 - 🔭 I’m currently working on a startup
 - 🌱 I’m currently learning flutter & ML
