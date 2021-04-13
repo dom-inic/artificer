@@ -11,4 +11,4 @@ Hi, I'm Dominic Nyambane, a passionate self-taught Mobile, Web, Data scientist a
 - ⚡ Fun fact: mmmh
 
 
-![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dominic&theme=merko&layout=compact)
+![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dom-inic&theme=merko&layout=compact)
