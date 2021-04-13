@@ -16,4 +16,3 @@ Hi, I'm Dominic Nyambane, a passionate self-taught Mobile, Web, Data scientist a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-inic&layout=compact&theme=merko&langs_count=10)](https://github.com/dom-inic/github-readme-stats)
 
-[![Dominic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dom-inic)](https://github.com/dom-inic/github-readme-stats)
