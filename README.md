@@ -28,6 +28,24 @@
     <a href="https://postman.com" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
     </a> 
+                <a href="https://www.postgresql.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></code> 
+    </a> 
+                <a href="https://github.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" alt="github" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.heroku.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> 
+    </a> 
+                <a href="https://dart.dev/" target="_blank"> 
+        <code><img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="50" height="50"/></code> 
+    </a>
+    <a href="https://flutter.dev/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/></code> 
+    </a>
+                <a href="https://www.javascript.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
+    </a> 
 
 <br>
 <br>
