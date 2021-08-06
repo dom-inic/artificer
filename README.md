@@ -25,16 +25,12 @@
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-ML-violet" />
 <img align="left" alt="Django" src="https://img.shields.io/badge/Django-DJ-green" />
+    <a href="https://postman.com" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
+    </a> 
 
 <br>
 <br>
-<h3> ⚡ GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dom-inic&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="dominic" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dom-inic&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="dominic" height="195px"/></p>
-<br><br><br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dom-inic&theme=dark" alt="dominic" /></p> -->
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dom-inic&theme=dark)
 
 <h3> ⚙️  GitHub Analytics </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=dom-inic&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
