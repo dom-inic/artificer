@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on great projects
 - 🤔 I’m looking for help with my ...
 - 💬 Ask me about AI
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dominic-nyambane-8898b71b8/)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/dominic-nyambane-8898b71b8/"> Linkedin</a>
 - ⚡ Fun fact: Love being creative
 
 <!-- ![](https://komarev.com/ghpvc/?username=dom-inic&color=green) -->
@@ -47,6 +47,9 @@
     </a>
                 <a href="https://www.javascript.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
+            <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+            <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+            <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
     </a> 
 
 <br>
