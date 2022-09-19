@@ -14,11 +14,15 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=dom-inic&color=green) -->
 
-![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dom-inic&theme=merko&layout=compact&count_private=true&show_icons=true)
+<div align="center"/>
 
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=dom-inic)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-inic&layout=compact&theme=merko&langs_count=10)](https://github.com/dom-inic/github-readme-stats)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=dom-inic&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom-inic&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
+</div>
 
 ## Expertise 
 <img align="left" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-ML-violet" />
