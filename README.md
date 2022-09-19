@@ -21,8 +21,6 @@
 
 
 ## Expertise 
-<img align="left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-ML-violet" />
 <img align="left" alt="Django" src="https://img.shields.io/badge/Django-DJ-green" />
     <a href="https://postman.com" target="_blank"> 
