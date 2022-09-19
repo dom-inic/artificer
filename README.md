@@ -1,7 +1,9 @@
 
 
-
-### Hi👋, I'm Dominic Nyambane, a passionate self-taught Mobile dev, Web dev, Data scientist and Entrepreneur from Kenya.
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=dom-inic&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+</p>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Dominic Nyambane, a passionate self-taught Mobile dev, Web dev, Data scientist and Entrepreneur from Kenya.
 - 🔭 I’m currently working on a startup
 - 🌱 I’m currently learning flutter & ML
 - 👯 I’m looking to collaborate on great projects
