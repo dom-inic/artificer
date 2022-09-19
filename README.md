@@ -5,7 +5,9 @@
 </p>
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 Hi, I'm a Senior Developer with experience in Full Stack Web developent, mobile and data science. 
+<br/>
 My expertise is mostly in web development from backend all the way to frontend development whereby i use various number of tools to build production ready apps. 
+<br/>
 I also specialise in data science where i have worked with some of the latest tools in the data science field to build ML applications. 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
