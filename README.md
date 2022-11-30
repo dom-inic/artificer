@@ -54,10 +54,5 @@ I also specialise in data science where i have worked with some of the latest to
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=dom-inic)
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=dom-inic&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom-inic&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
-</div>
 
 
