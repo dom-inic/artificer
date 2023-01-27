@@ -3,16 +3,16 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=dom-inic&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-Hi, I'm a Senior Developer with experience in Full Stack Web developent, mobile and data science. 
+ Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# Full-Stack Developer and Machine Learning Enthusiast
 <br/>
-My expertise is mostly in web development from backend all the way to frontend development whereby i use various number of tools to build production ready apps. 
+I am a full-stack developer with experience in frontend and backend technologies, as well as machine learning.
 <br/>
-I also specialise in data science where i have worked with some of the latest tools in the data science field to build ML applications. 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/dominic-nyambane-8898b71b8/"> Linkedin</a>
-- ⚡ Fun fact: always curious about the why's
+## Skills
+- Frontend: HTML, CSS, JavaScript, TypeScript, React
+- Backend: Python, Django, Django Rest Framework, PostgreSQL, MySQL
+- Machine Learning: scikit-learn, PyTorch, TensorFlow, pandas, numpy
 
 <!-- ![](https://komarev.com/ghpvc/?username=dom-inic&color=green) -->
 
@@ -49,8 +49,13 @@ I also specialise in data science where i have worked with some of the latest to
 <br/>
 <br/>
             
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/dominic-nyambane-8898b71b8/"> Linkedin</a>
+- ⚡ Fun fact: always curious about the why's
+            
 
 <div align="center"/>
+            
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=dom-inic)
 
